@@ -3,8 +3,6 @@ const img1 = require("../../assets/img/food-table.jpg");
 const img2 = require("../../assets/img/grill.jpg");
 
 $(document).ready(function() {
-
-
   // First image is hard coded in index.html
   const carouselSlides = [
     {
@@ -15,7 +13,7 @@ $(document).ready(function() {
       btnUrl: "schedule.html"
     },
     {
-      title: "Our food is seriously the bomb!",
+      title: "Our food is seriously the F bomb!",
       subtitle: "What are you waiting for?",
       img: img2,
       btnText: "Purchase Tickets",
